@@ -2,6 +2,8 @@
 
 > **Predict. Optimize. Improve Student Success.**  
 > *Transform disconnected campus data into explainable insights that help faculty support student achievement and career readiness.*
+>
+> Smart Campus Analytics: predict, optimize, and improve student success with an analytics and AI-powered platform that helps college administrators identify students who may need intervention and take data-driven action.
 
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)](https://react.dev/)

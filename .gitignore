@@ -10,13 +10,16 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
-
 *.local
 .env
 .env.local
 .env.*
 !.env.example
 supabase/functions/.env
+.env.*
+!.env.example
+supabase/functions/.env
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
